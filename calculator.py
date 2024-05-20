@@ -1,5 +1,5 @@
-a=int(input('enter first num:'))
-b=int(input('enter the second num:'))
+a=int(input('enter 1st num:'))
+b=int(input('enter the 2nd num:'))
 print('1:addition')
 print('2:multiplication')
 print('3:substraction')
